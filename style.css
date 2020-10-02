@@ -1,0 +1,11 @@
+label{
+    display: inline-block;
+    width: 50px;
+}
+fieldset{
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    /* margin: auto; */
+
+}
